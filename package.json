@@ -1,0 +1,18 @@
+{
+  "name": "task-list-node",
+  "version": "1.0.0",
+  "description": "Administra tareas desde la consola, añade, elimina y marca tareas como completadas con gran facilidad.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":)"
+  },
+  "keywords": [
+    "\"lista",
+    "de",
+    "tareas\"",
+    "\"CLI\"",
+    "\"to-do\""
+  ],
+  "author": "Abdi Daniel E.M.",
+  "license": "ISC"
+}
