@@ -14,5 +14,8 @@
     "\"to-do\""
   ],
   "author": "Abdi Daniel E.M.",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
