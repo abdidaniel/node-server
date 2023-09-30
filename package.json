@@ -4,7 +4,7 @@
   "description": "Administra tareas desde la consola, añade, elimina y marca tareas como completadas con gran facilidad.",
   "main": "index.js",
   "scripts": {
-    "test": ":)"
+    "test": "node index.js"
   },
   "keywords": [
     "\"lista",
